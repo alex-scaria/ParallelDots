@@ -21,4 +21,6 @@ This is a classification problem with 10 classes.
 Steps Invloved
 
 Step 1 : Data Preparation
+
+
 Step 2 : Brand Recognition

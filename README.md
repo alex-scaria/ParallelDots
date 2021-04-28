@@ -18,3 +18,7 @@ In this problem we have 10 cigratte brand. Our objective is to recognize the bra
 This is a classification problem with 10 classes.
 
 
+Steps Invloved
+
+Step 1 : Data Preparation
+Step 2 : Brand Recognition

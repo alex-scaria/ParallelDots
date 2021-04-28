@@ -1,0 +1,2 @@
+# ParallelDots
+Smart Shelf 
